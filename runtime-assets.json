@@ -1,0 +1,326 @@
+[
+  {
+    "path": "/assets/textures/home.webp",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/textures/home_depth.webp",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/textures/tunnels/desktop.png",
+    "bytes": 67412
+  },
+  {
+    "path": "/assets/textures/tunnels/tablet.png",
+    "bytes": 73188
+  },
+  {
+    "path": "/assets/textures/LDR_RGB1_0.png",
+    "bytes": 48759
+  },
+  {
+    "path": "/assets/textures/about/fog.png",
+    "bytes": 57325
+  },
+  {
+    "path": "/assets/textures/about/ground_person_shadow.webp",
+    "bytes": 2992
+  },
+  {
+    "path": "/assets/textures/about/person.webp",
+    "bytes": 55682
+  },
+  {
+    "path": "/assets/textures/about/person_light.webp",
+    "bytes": 91978
+  },
+  {
+    "path": "/assets/textures/about/rocks.webp",
+    "bytes": 88684
+  },
+  {
+    "path": "/assets/textures/about/terrain_shadow_light_height.webp",
+    "bytes": 1112136
+  },
+  {
+    "path": "/assets/textures/award_gradient.png",
+    "bytes": 3126
+  },
+  {
+    "path": "/assets/textures/flip_texture.png",
+    "bytes": 8696
+  },
+  {
+    "path": "/assets/textures/font.png",
+    "bytes": 200
+  },
+  {
+    "path": "/assets/textures/reel/desktop.mp4",
+    "bytes": 4980580
+  },
+  {
+    "path": "/assets/textures/reel/mobile.mp4",
+    "bytes": 2267388
+  },
+  {
+    "path": "/assets/textures/smaa-area.png",
+    "bytes": 33203
+  },
+  {
+    "path": "/assets/textures/smaa-search.png",
+    "bytes": 113
+  },
+  {
+    "path": "/assets/textures/stickers.png",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/textures/stickers_low.png",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/textures/tunnels/astronaut/face.png",
+    "bytes": 771
+  },
+  {
+    "path": "/assets/textures/tunnels/earth.webp",
+    "bytes": 1634
+  },
+  {
+    "path": "/assets/textures/tunnels/earth_landscape.jpg",
+    "bytes": 245092
+  },
+  {
+    "path": "/assets/textures/tunnels/white_block.webp",
+    "bytes": 189362
+  },
+  {
+    "path": "/assets/textures/tunnels/white_matcap.jpg",
+    "bytes": 69851
+  },
+  {
+    "path": "/assets/audios/hover_0.ogg",
+    "bytes": 6130
+  },
+  {
+    "path": "/assets/audios/hover_1.ogg",
+    "bytes": 6158
+  },
+  {
+    "path": "/assets/audios/hover_2.ogg",
+    "bytes": 6152
+  },
+  {
+    "path": "/assets/audios/click_0.ogg",
+    "bytes": 6651
+  },
+  {
+    "path": "/assets/audios/click_1.ogg",
+    "bytes": 6413
+  },
+  {
+    "path": "/assets/audios/focus_0.ogg",
+    "bytes": 10062
+  },
+  {
+    "path": "/assets/audios/focus_1.ogg",
+    "bytes": 9883
+  },
+  {
+    "path": "/assets/audios/focus_2.ogg",
+    "bytes": 10036
+  },
+  {
+    "path": "/assets/audios/glass_broken.ogg",
+    "bytes": 30803
+  },
+  {
+    "path": "/assets/audios/page_0.ogg",
+    "bytes": 21202
+  },
+  {
+    "path": "/assets/audios/page_1.ogg",
+    "bytes": 21190
+  },
+  {
+    "path": "/assets/audios/generic.ogg",
+    "bytes": 236668
+  },
+  {
+    "path": "/assets/audios/cinematic_0.ogg",
+    "bytes": 132390
+  },
+  {
+    "path": "/assets/audios/cinematic_2.ogg",
+    "bytes": 102857
+  },
+  {
+    "path": "/assets/audios/cinematic_3.ogg",
+    "bytes": 219018
+  },
+  {
+    "path": "/assets/audios/generic_end.ogg",
+    "bytes": 475936
+  },
+  {
+    "path": "/assets/team/team.json",
+    "bytes": 589
+  },
+  {
+    "path": "/assets/models/about/sphere_l.buf",
+    "bytes": 1732
+  },
+  {
+    "path": "/assets/models/about/sphere_m.buf",
+    "bytes": 1036
+  },
+  {
+    "path": "/assets/models/about/sphere_s.buf",
+    "bytes": 744
+  },
+  {
+    "path": "/assets/models/about/sphere_xs.buf",
+    "bytes": 624
+  },
+  {
+    "path": "/assets/models/about/rock_0.buf",
+    "bytes": 33891
+  },
+  {
+    "path": "/assets/models/about/rock_1.buf",
+    "bytes": 38409
+  },
+  {
+    "path": "/assets/models/about/rock_2.buf",
+    "bytes": 39145
+  },
+  {
+    "path": "/assets/models/about/rock_3.buf",
+    "bytes": 40024
+  },
+  {
+    "path": "/assets/models/about/rock_4.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_5.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_6.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_7.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_0_low.buf",
+    "bytes": 2205
+  },
+  {
+    "path": "/assets/models/about/rock_1_low.buf",
+    "bytes": 2205
+  },
+  {
+    "path": "/assets/models/about/rock_2_low.buf",
+    "bytes": 2205
+  },
+  {
+    "path": "/assets/models/about/rock_3_low.buf",
+    "bytes": 2205
+  },
+  {
+    "path": "/assets/models/about/rock_4_low.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_5_low.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_6_low.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_7_low.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_animation_0.buf",
+    "bytes": 42624
+  },
+  {
+    "path": "/assets/models/about/rock_animation_1.buf",
+    "bytes": 42628
+  },
+  {
+    "path": "/assets/models/about/rock_animation_2.buf",
+    "bytes": 42628
+  },
+  {
+    "path": "/assets/models/about/rock_animation_3.buf",
+    "bytes": 42620
+  },
+  {
+    "path": "/assets/models/about/rock_animation_4.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_animation_5.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_animation_6.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/about/rock_animation_7.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/models/plant.buf",
+    "bytes": 177002
+  },
+  {
+    "path": "/assets/models/home/cross.buf",
+    "bytes": 282676
+  },
+  {
+    "path": "/assets/models/home/cross_ld.buf",
+    "bytes": 123984
+  },
+  {
+    "path": "/assets/models/home/line.buf",
+    "bytes": 58598
+  },
+  {
+    "path": "/assets/team/edan.buf",
+    "bytes": 82280
+  },
+  {
+    "path": "/assets/team/ffi.buf",
+    "bytes": 82280
+  },
+  {
+    "path": "/assets/team/marcolp.buf",
+    "bytes": 82280
+  },
+  {
+    "path": "/assets/team/paul.buf",
+    "bytes": 82280
+  },
+  {
+    "path": "/assets/team/andrii.buf",
+    "bytes": 131308
+  },
+  {
+    "path": "/assets/team/luana.buf",
+    "bytes": 131308
+  },
+  {
+    "path": "/assets/team/sunny.buf",
+    "bytes": 82280
+  }
+]

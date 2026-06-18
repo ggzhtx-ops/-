@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://lusion.co/",
+    "path": "index.html",
+    "bytes": 58598
+  },
+  {
+    "url": "https://lusion.co/assets/meta/apple-touch-icon.png",
+    "path": "assets/meta/apple-touch-icon.png",
+    "bytes": 854
+  },
+  {
+    "url": "https://lusion.co/assets/meta/favicon-32x32.png",
+    "path": "assets/meta/favicon-32x32.png",
+    "bytes": 451
+  },
+  {
+    "url": "https://lusion.co/assets/meta/dark/favicon-32x32.png",
+    "path": "assets/meta/dark/favicon-32x32.png",
+    "bytes": 469
+  },
+  {
+    "url": "https://lusion.co/assets/meta/favicon-16x16.png",
+    "path": "assets/meta/favicon-16x16.png",
+    "bytes": 447
+  },
+  {
+    "url": "https://lusion.co/assets/meta/dark/favicon-16x16.png",
+    "path": "assets/meta/dark/favicon-16x16.png",
+    "bytes": 448
+  },
+  {
+    "url": "https://lusion.co/assets/meta/favicon.ico",
+    "path": "assets/meta/favicon.ico",
+    "bytes": 15086
+  },
+  {
+    "url": "https://lusion.co/assets/meta/dark/favicon.ico",
+    "path": "assets/meta/dark/favicon.ico",
+    "bytes": 15086
+  },
+  {
+    "url": "https://lusion.co/assets/meta/site.webmanifest",
+    "path": "assets/meta/site.webmanifest",
+    "bytes": 341
+  },
+  {
+    "url": "https://lusion.co/assets/meta/safari-pinned-tab.svg",
+    "path": "assets/meta/safari-pinned-tab.svg",
+    "bytes": 3227
+  },
+  {
+    "url": "https://lusion.co/assets/meta/social_sharing.jpg",
+    "path": "assets/meta/social_sharing.jpg",
+    "bytes": 93072
+  },
+  {
+    "url": "https://lusion.co/about/",
+    "path": "about/index.html",
+    "bytes": 59787
+  },
+  {
+    "url": "https://lusion.co/sitemap-index.xml",
+    "path": "sitemap-index.xml",
+    "bytes": 58598
+  },
+  {
+    "url": "https://lusion.co/_astro/about.CNa9RfUh.css",
+    "path": "_astro/about.CNa9RfUh.css",
+    "bytes": 90367
+  },
+  {
+    "url": "https://lusion.co/_astro/hoisted.CJiXW_YI.js",
+    "path": "_astro/hoisted.CJiXW_YI.js",
+    "bytes": 1251704
+  },
+  {
+    "url": "https://lusion.co/projects",
+    "path": "projects/index.html",
+    "bytes": 30706
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+    "path": "assets/images/logo/@logo--cocacola.svg",
+    "bytes": 12943
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+    "path": "assets/images/logo/@logo--maxmara.svg",
+    "bytes": 9854
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+    "path": "assets/images/logo/@logo--calvin-klein.svg",
+    "bytes": 4378
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+    "path": "assets/images/logo/@logo--porsche.svg",
+    "bytes": 4757
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+    "path": "assets/images/logo/@logo--wallpaper.svg",
+    "bytes": 5443
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+    "path": "assets/images/logo/@logo--hyundai.svg",
+    "bytes": 3870
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+    "path": "assets/images/logo/@logo--google.svg",
+    "bytes": 2878
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+    "path": "assets/images/logo/@logo--apple.svg",
+    "bytes": 701
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+    "path": "assets/images/logo/@logo--webby-awards.svg",
+    "bytes": 5262
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+    "path": "assets/images/logo/@logo--stanford.svg",
+    "bytes": 929
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+    "path": "assets/images/logo/@logo--sony.svg",
+    "bytes": 4085
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+    "path": "assets/images/logo/@logo--awwwards.svg",
+    "bytes": 3832
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+    "path": "assets/images/logo/@logo--nvidia.svg",
+    "bytes": 2492
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+    "path": "assets/images/logo/@logo--akqa.svg",
+    "bytes": 9303
+  },
+  {
+    "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+    "path": "assets/images/logo/@logo--nexus-studios.svg",
+    "bytes": 7823
+  },
+  {
+    "url": "https://lusion.co/projects/oryzo_ai",
+    "path": "projects/oryzo_ai/index.html",
+    "bytes": 27930
+  },
+  {
+    "url": "https://lusion.co/projects/of_the_oak",
+    "path": "projects/of_the_oak/index.html",
+    "bytes": 27518
+  },
+  {
+    "url": "https://lusion.co/projects/devin_ai",
+    "path": "projects/devin_ai/index.html",
+    "bytes": 26649
+  },
+  {
+    "url": "https://lusion.co/projects/porsche_dream_machine",
+    "path": "projects/porsche_dream_machine/index.html",
+    "bytes": 29219
+  },
+  {
+    "url": "https://lusion.co/projects/synthetic_human",
+    "path": "projects/synthetic_human/index.html",
+    "bytes": 27091
+  },
+  {
+    "url": "https://lusion.co/projects/spatial_fusion",
+    "path": "projects/spatial_fusion/index.html",
+    "bytes": 29031
+  },
+  {
+    "url": "https://lusion.co/projects/spaace",
+    "path": "projects/spaace/index.html",
+    "bytes": 26915
+  },
+  {
+    "url": "https://lusion.co/projects/ddd_2024",
+    "path": "projects/ddd_2024/index.html",
+    "bytes": 26269
+  },
+  {
+    "url": "https://lusion.co/projects/choo_choo_world",
+    "path": "projects/choo_choo_world/index.html",
+    "bytes": 29371
+  },
+  {
+    "url": "https://lusion.co/projects/soda_experience",
+    "path": "projects/soda_experience/index.html",
+    "bytes": 27301
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/Aeonik-Regular.woff2",
+    "path": "assets/fonts/Aeonik-Regular.woff2",
+    "bytes": 31164
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/Aeonik-Regular.woff",
+    "path": "assets/fonts/Aeonik-Regular.woff",
+    "bytes": 44764
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/Aeonik-Medium.woff2",
+    "path": "assets/fonts/Aeonik-Medium.woff2",
+    "bytes": 44632
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/Aeonik-Medium.woff",
+    "path": "assets/fonts/Aeonik-Medium.woff",
+    "bytes": 48712
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/Aeonik-RegularItalic.woff2",
+    "path": "assets/fonts/Aeonik-RegularItalic.woff2",
+    "bytes": 32512
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/Aeonik-RegularItalic.woff",
+    "path": "assets/fonts/Aeonik-RegularItalic.woff",
+    "bytes": 46840
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/IBMPlexMono-Regular.woff2",
+    "path": "assets/fonts/IBMPlexMono-Regular.woff2",
+    "bytes": 38988
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/IBMPlexMono-Regular.woff",
+    "path": "assets/fonts/IBMPlexMono-Regular.woff",
+    "bytes": 56780
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/IBMPlexMono-Medium.woff2",
+    "path": "assets/fonts/IBMPlexMono-Medium.woff2",
+    "bytes": 40088
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/IBMPlexMono-Medium.woff",
+    "path": "assets/fonts/IBMPlexMono-Medium.woff",
+    "bytes": 57860
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/LusionMono.woff2",
+    "path": "assets/fonts/LusionMono.woff2",
+    "bytes": 1600
+  },
+  {
+    "url": "https://lusion.co/assets/fonts/LusionMono.woff",
+    "path": "assets/fonts/LusionMono.woff",
+    "bytes": 2324
+  },
+  {
+    "url": "https://lusion.co/assets/images/icons/arrow-right.svg",
+    "path": "assets/images/icons/arrow-right.svg",
+    "bytes": 701
+  },
+  {
+    "url": "https://lusion.co/assets/images/cards/back.png",
+    "path": "assets/images/cards/back.png",
+    "bytes": 49818
+  },
+  {
+    "url": "https://lusion.co/assets/images/icons/arrow-down.svg",
+    "path": "assets/images/icons/arrow-down.svg",
+    "bytes": 312
+  }
+]

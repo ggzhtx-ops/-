@@ -1,0 +1,87 @@
+html,
+body {
+  min-height: 100% !important;
+  height: auto !important;
+  overflow: auto !important;
+  background: #050505 !important;
+}
+
+body {
+  position: static !important;
+}
+
+#canvas,
+#transition-overlay,
+#preloader,
+#input-blocker,
+#video-overlay,
+#scroll-indicator,
+#header-right-sound-btn canvas {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+#ui,
+#page-container,
+#page-container-inner,
+#about,
+#page-extra-sections {
+  display: block !important;
+  position: relative !important;
+  width: 100% !important;
+  height: auto !important;
+  min-height: 0 !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  pointer-events: auto !important;
+}
+
+#about,
+#about .section,
+#page-extra-sections,
+#page-extra-sections .section {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+}
+
+#header {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  z-index: 20 !important;
+}
+
+#header-menu {
+  pointer-events: auto !important;
+}
+
+#about-who,
+#about-clients,
+#about-award,
+#about-capability,
+#end-section,
+#footer-section {
+  min-height: 100vh;
+}
+
+.about-who-subsection,
+.about-award-category,
+.about-capability-card,
+.about-clients-carousel-line,
+.footer-address-line,
+.footer-socials-line,
+.footer-newsletter-line {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+}
+
+a,
+button,
+input {
+  pointer-events: auto !important;
+}
